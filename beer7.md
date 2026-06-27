@@ -1,7 +1,7 @@
-# Beer7
+# Beer7 
 
 ## Overview
-Beer7 is an Israeli punk band associated with the underground DIY and hardcore punk scene.
+Beer7 is an Israeli punk band associated with the underground DIY and hardcore punk scene. Founded in 2000 in Beer-Sheva they we're known for their provocative performances that we're later toned down.
 
 ## Style
 Fast, raw punk sound influenced by hardcore and street punk traditions, often tied to small local shows and independent music culture.
