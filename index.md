@@ -1,6 +1,6 @@
 # A free English-language archive documenting the history of Israeli Punk music, DIY culture, bands, flyers, fanzines, interviews and underground scenes.
 ## Sections
-- Bands
+- [Bands](bands.md)
 - Albums
 - Venues
 - Flyers & Zines
