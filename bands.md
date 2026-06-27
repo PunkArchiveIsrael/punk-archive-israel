@@ -4,8 +4,8 @@ A list of Israeli punk bands in the archive.
 
 ## A
 
-- [Useless ID](bands/useless-id.md)
+- [Useless ID](useless-id.md)
 
 ## B
 
-- [Beer7](bands/beer7.md)
+- [Beer7](beer7.md)
