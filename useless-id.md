@@ -37,12 +37,6 @@ Useless ID is generally associated with:
 
 Their work is often described as bridging Israeli underground punk with the broader international punk scene.
 
-## Significance in Israeli Punk
-Useless ID is often cited as:
-- One of the first Israeli punk bands to gain sustained international recognition  
-- A key example of DIY bands transitioning into global punk labels  
-- A foundational reference point for later Israeli punk and hardcore bands  
-
 ## Discography (Selected)
 - *Dead’s Not Punk* (1997)  
 - *Get in the Pita Bread Pit* (1999)  
